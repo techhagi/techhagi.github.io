@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://thehagi.tech/sitemap.xml
+Sitemap: https://techhagi.github.io/sitemap.xml
