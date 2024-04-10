@@ -2,21 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.thehagi.site/test/about/</loc>
-    <lastmod>2024-04-07T15:42:58+08:00</lastmod>
+    <loc>https://www.thehagi.site/</loc>
+    <lastmod>2024-04-08T22:18:24+08:00</lastmod>
+  </url><url>
+    <loc>https://www.thehagi.site/post/</loc>
+    <lastmod>2024-04-08T22:18:24+08:00</lastmod>
+  </url><url>
+    <loc>https://www.thehagi.site/post/web3/</loc>
+    <lastmod>2024-04-08T22:18:24+08:00</lastmod>
+  </url><url>
+    <loc>https://www.thehagi.site/template/</loc>
+    <lastmod>2024-04-08T19:25:12+08:00</lastmod>
+  </url><url>
+    <loc>https://www.thehagi.site/about/</loc>
   </url><url>
     <loc>https://www.thehagi.site/categories/</loc>
-    <lastmod>2024-04-07T15:42:58+08:00</lastmod>
   </url><url>
-    <loc>https://www.thehagi.site/</loc>
-    <lastmod>2024-04-07T15:42:58+08:00</lastmod>
+    <loc>https://www.thehagi.site/post/life/</loc>
   </url><url>
-    <loc>https://www.thehagi.site/categories/test/</loc>
-    <lastmod>2024-04-07T15:42:58+08:00</lastmod>
-  </url><url>
-    <loc>https://www.thehagi.site/test/</loc>
-    <lastmod>2024-04-07T15:42:58+08:00</lastmod>
+    <loc>https://www.thehagi.site/search/</loc>
   </url><url>
     <loc>https://www.thehagi.site/tags/</loc>
+  </url><url>
+    <loc>https://www.thehagi.site/post/tech/</loc>
+  </url><url>
+    <loc>https://www.thehagi.site/archives/</loc>
   </url>
 </urlset>
